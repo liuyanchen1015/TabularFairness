@@ -1,0 +1,1236 @@
+,sex,race,age_cat,c_charge_degree,priors_count,risk,y_temp
+2292,Male,African-American,25 - 45,M,13,High,Reoffended
+1844,Male,Not African-American,25 - 45,M,1,Low,Did Not Reoffend
+3311,Male,African-American,25 - 45,F,2,Low,Did Not Reoffend
+346,Male,Not African-American,Less than 25,M,0,Low,Did Not Reoffend
+1728,Female,Not African-American,Less than 25,F,1,Medium,Did Not Reoffend
+2072,Female,African-American,25 - 45,F,1,Low,Did Not Reoffend
+6120,Male,Not African-American,25 - 45,M,3,Low,Reoffended
+4418,Male,Not African-American,25 - 45,F,8,Medium,Reoffended
+4119,Male,African-American,25 - 45,F,2,Medium,Reoffended
+3403,Female,Not African-American,25 - 45,M,3,Medium,Did Not Reoffend
+5607,Male,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+2673,Male,African-American,25 - 45,F,9,Medium,Reoffended
+1554,Male,African-American,Less than 25,M,2,High,Reoffended
+1253,Male,African-American,25 - 45,F,5,Low,Did Not Reoffend
+1983,Male,Not African-American,Less than 25,F,0,Low,Did Not Reoffend
+3996,Male,African-American,Greater than 45,F,1,Low,Did Not Reoffend
+3075,Male,African-American,Greater than 45,F,0,Low,Did Not Reoffend
+4602,Male,African-American,Greater than 45,M,8,Low,Reoffended
+1608,Male,African-American,Less than 25,F,0,High,Reoffended
+2654,Male,Not African-American,25 - 45,M,2,Low,Reoffended
+1272,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+1144,Male,African-American,25 - 45,F,7,High,Reoffended
+4217,Male,African-American,Less than 25,F,0,Medium,Reoffended
+5261,Female,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+2167,Male,African-American,Greater than 45,M,22,Medium,Did Not Reoffend
+3276,Female,African-American,Greater than 45,F,1,Low,Did Not Reoffend
+3388,Female,African-American,Less than 25,F,0,Low,Reoffended
+1747,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+1448,Male,Not African-American,25 - 45,F,3,Low,Did Not Reoffend
+5477,Male,African-American,25 - 45,F,3,Low,Reoffended
+6164,Male,Not African-American,Less than 25,M,0,Medium,Reoffended
+5384,Male,Not African-American,Less than 25,M,0,Low,Did Not Reoffend
+4834,Male,Not African-American,25 - 45,M,2,Low,Did Not Reoffend
+1176,Male,African-American,25 - 45,F,0,High,Did Not Reoffend
+6058,Male,Not African-American,25 - 45,F,1,Medium,Did Not Reoffend
+1961,Male,African-American,25 - 45,M,2,Low,Did Not Reoffend
+3132,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+681,Male,Not African-American,25 - 45,F,2,Medium,Did Not Reoffend
+5307,Female,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+1545,Male,Not African-American,25 - 45,M,6,Medium,Did Not Reoffend
+3034,Female,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+535,Male,Not African-American,25 - 45,F,1,Medium,Did Not Reoffend
+4953,Male,Not African-American,25 - 45,F,3,Low,Did Not Reoffend
+4209,Male,Not African-American,Less than 25,F,0,High,Did Not Reoffend
+1056,Male,Not African-American,Greater than 45,F,3,Low,Reoffended
+80,Male,Not African-American,25 - 45,F,9,High,Reoffended
+4082,Male,African-American,25 - 45,F,20,High,Reoffended
+2586,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+706,Male,African-American,25 - 45,F,20,High,Did Not Reoffend
+3944,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+4407,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+432,Male,Not African-American,25 - 45,M,7,Low,Did Not Reoffend
+4787,Male,African-American,25 - 45,F,6,Medium,Reoffended
+3528,Male,African-American,25 - 45,F,9,Medium,Reoffended
+6146,Male,African-American,25 - 45,F,9,Low,Did Not Reoffend
+6150,Male,African-American,Less than 25,M,2,Low,Reoffended
+1397,Male,African-American,25 - 45,M,5,Medium,Did Not Reoffend
+4763,Female,Not African-American,25 - 45,M,0,Medium,Reoffended
+5818,Male,African-American,25 - 45,M,3,Medium,Reoffended
+3942,Male,African-American,Less than 25,F,2,Medium,Did Not Reoffend
+4786,Male,African-American,Less than 25,F,1,High,Reoffended
+5601,Female,African-American,Less than 25,M,0,Low,Reoffended
+4395,Female,Not African-American,25 - 45,M,4,Medium,Reoffended
+5107,Male,African-American,Less than 25,F,6,Medium,Reoffended
+1261,Male,Not African-American,Greater than 45,M,0,Low,Reoffended
+351,Male,African-American,25 - 45,F,8,Medium,Reoffended
+4669,Male,African-American,25 - 45,F,2,Low,Did Not Reoffend
+2859,Male,Not African-American,Less than 25,F,0,Medium,Reoffended
+5445,Female,African-American,25 - 45,F,0,Low,Reoffended
+4411,Male,Not African-American,25 - 45,F,3,Medium,Reoffended
+5820,Male,Not African-American,25 - 45,F,3,Low,Reoffended
+3852,Female,African-American,25 - 45,F,2,Low,Did Not Reoffend
+4949,Female,African-American,25 - 45,M,5,High,Did Not Reoffend
+4900,Female,Not African-American,25 - 45,F,1,Low,Did Not Reoffend
+4724,Male,Not African-American,25 - 45,F,5,High,Reoffended
+5747,Female,Not African-American,25 - 45,M,0,Low,Reoffended
+5728,Male,African-American,Less than 25,F,1,High,Did Not Reoffend
+4160,Male,Not African-American,25 - 45,F,0,Low,Reoffended
+3992,Male,African-American,25 - 45,F,3,High,Reoffended
+1544,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+1566,Male,African-American,25 - 45,F,11,High,Did Not Reoffend
+1073,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+5377,Female,African-American,Greater than 45,F,0,Medium,Reoffended
+4381,Male,African-American,Less than 25,M,1,High,Reoffended
+1765,Male,African-American,25 - 45,F,13,Medium,Reoffended
+1027,Male,African-American,25 - 45,M,1,Low,Did Not Reoffend
+5143,Male,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+1918,Male,Not African-American,Less than 25,F,6,High,Reoffended
+763,Male,Not African-American,Greater than 45,F,1,Low,Reoffended
+1670,Male,African-American,Greater than 45,F,5,High,Reoffended
+1022,Female,African-American,25 - 45,M,0,Low,Did Not Reoffend
+3396,Male,African-American,25 - 45,M,0,Low,Reoffended
+2299,Male,Not African-American,25 - 45,F,6,Medium,Reoffended
+4373,Female,Not African-American,25 - 45,M,6,High,Reoffended
+4012,Female,African-American,25 - 45,F,1,Medium,Did Not Reoffend
+296,Male,African-American,25 - 45,M,6,High,Reoffended
+3866,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+1183,Female,Not African-American,25 - 45,F,0,Low,Reoffended
+3599,Male,African-American,25 - 45,F,5,High,Reoffended
+5422,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+1912,Male,Not African-American,25 - 45,F,3,Low,Did Not Reoffend
+4155,Male,Not African-American,25 - 45,F,0,Low,Reoffended
+907,Male,African-American,25 - 45,F,2,Medium,Did Not Reoffend
+5968,Male,African-American,25 - 45,F,0,Medium,Did Not Reoffend
+93,Male,African-American,Less than 25,F,3,High,Reoffended
+4266,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+2559,Male,African-American,Less than 25,F,2,Low,Reoffended
+23,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+79,Male,Not African-American,Less than 25,F,1,Medium,Reoffended
+198,Male,African-American,Greater than 45,F,0,Low,Did Not Reoffend
+167,Female,African-American,Less than 25,M,1,Low,Did Not Reoffend
+393,Male,African-American,25 - 45,F,8,Medium,Reoffended
+5732,Male,Not African-American,25 - 45,M,3,Medium,Did Not Reoffend
+2484,Female,Not African-American,25 - 45,F,2,High,Did Not Reoffend
+4127,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+3014,Male,African-American,25 - 45,F,9,Medium,Did Not Reoffend
+676,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+2662,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+710,Male,African-American,Greater than 45,M,9,High,Reoffended
+3750,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+5204,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+1578,Female,Not African-American,25 - 45,F,3,Low,Did Not Reoffend
+1617,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+2316,Male,Not African-American,Less than 25,M,3,High,Reoffended
+810,Male,Not African-American,25 - 45,F,2,Low,Did Not Reoffend
+1451,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+6170,Female,African-American,25 - 45,M,3,Low,Did Not Reoffend
+4472,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+977,Male,Not African-American,Less than 25,F,0,Low,Reoffended
+1322,Female,African-American,Less than 25,F,2,High,Reoffended
+2977,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+4400,Male,Not African-American,25 - 45,F,1,High,Did Not Reoffend
+6070,Male,African-American,Greater than 45,M,14,Medium,Did Not Reoffend
+5018,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+1032,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+4331,Female,Not African-American,Greater than 45,F,2,Low,Did Not Reoffend
+3661,Male,Not African-American,25 - 45,F,4,Low,Reoffended
+5742,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+1433,Male,Not African-American,25 - 45,M,1,Medium,Did Not Reoffend
+4762,Male,African-American,25 - 45,F,7,High,Reoffended
+544,Female,African-American,Less than 25,F,0,High,Did Not Reoffend
+5702,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+3260,Female,African-American,25 - 45,M,0,Low,Did Not Reoffend
+5528,Male,African-American,Less than 25,F,2,High,Reoffended
+3142,Male,Not African-American,Greater than 45,F,2,Low,Did Not Reoffend
+4941,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+1209,Female,African-American,25 - 45,F,1,Medium,Reoffended
+3443,Male,African-American,25 - 45,F,15,High,Did Not Reoffend
+2622,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+2302,Male,African-American,Less than 25,F,1,Low,Did Not Reoffend
+1074,Male,Not African-American,25 - 45,M,2,Low,Did Not Reoffend
+465,Male,African-American,25 - 45,F,8,Medium,Did Not Reoffend
+969,Female,Not African-American,Greater than 45,F,0,Medium,Did Not Reoffend
+4920,Male,Not African-American,Greater than 45,M,13,Low,Reoffended
+5967,Male,African-American,Less than 25,M,0,High,Did Not Reoffend
+2578,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+2881,Male,African-American,25 - 45,F,7,Medium,Did Not Reoffend
+2534,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+4279,Male,African-American,Less than 25,F,3,High,Reoffended
+800,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+565,Male,African-American,25 - 45,F,11,Low,Did Not Reoffend
+5951,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+6021,Female,Not African-American,Greater than 45,F,5,Low,Did Not Reoffend
+4896,Female,African-American,25 - 45,M,0,Low,Did Not Reoffend
+2840,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+2259,Male,Not African-American,25 - 45,M,2,Low,Did Not Reoffend
+5100,Male,Not African-American,Greater than 45,M,2,Low,Reoffended
+5647,Female,Not African-American,25 - 45,F,2,Low,Reoffended
+3381,Male,Not African-American,25 - 45,M,4,Low,Reoffended
+4180,Female,African-American,Less than 25,M,0,Medium,Did Not Reoffend
+3425,Female,Not African-American,Less than 25,F,2,Low,Did Not Reoffend
+2902,Male,African-American,Less than 25,F,2,Low,Reoffended
+4043,Male,African-American,Less than 25,F,1,Low,Reoffended
+37,Male,Not African-American,25 - 45,M,2,Low,Reoffended
+2887,Male,African-American,25 - 45,F,26,High,Reoffended
+4051,Female,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+811,Male,Not African-American,25 - 45,F,5,Low,Did Not Reoffend
+3525,Male,African-American,Less than 25,M,0,Low,Did Not Reoffend
+4918,Male,African-American,Less than 25,F,8,High,Reoffended
+2209,Male,Not African-American,25 - 45,F,3,High,Reoffended
+2197,Female,African-American,25 - 45,F,5,High,Reoffended
+2229,Male,Not African-American,25 - 45,F,2,Medium,Reoffended
+2642,Male,Not African-American,Less than 25,F,1,Low,Reoffended
+4507,Female,African-American,25 - 45,M,3,Medium,Reoffended
+2857,Male,Not African-American,25 - 45,F,18,High,Reoffended
+156,Male,African-American,Greater than 45,M,23,High,Reoffended
+1557,Male,Not African-American,25 - 45,M,9,Medium,Did Not Reoffend
+2251,Male,African-American,Greater than 45,M,0,Low,Did Not Reoffend
+2199,Female,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+4071,Male,African-American,Greater than 45,F,16,Medium,Did Not Reoffend
+2829,Male,African-American,25 - 45,F,1,Medium,Did Not Reoffend
+1225,Male,African-American,Less than 25,F,5,Medium,Reoffended
+746,Female,African-American,25 - 45,M,1,Low,Did Not Reoffend
+1075,Male,African-American,Less than 25,F,0,Low,Reoffended
+3855,Male,African-American,25 - 45,F,17,High,Reoffended
+3903,Male,African-American,25 - 45,M,0,High,Reoffended
+1871,Male,African-American,25 - 45,F,1,Low,Did Not Reoffend
+3113,Female,African-American,25 - 45,F,0,Low,Did Not Reoffend
+3570,Male,Not African-American,Greater than 45,M,0,Low,Reoffended
+2445,Male,African-American,25 - 45,M,3,Low,Reoffended
+3940,Male,Not African-American,25 - 45,F,1,Low,Did Not Reoffend
+1611,Male,African-American,25 - 45,F,10,High,Reoffended
+1129,Male,African-American,25 - 45,F,6,Low,Did Not Reoffend
+764,Male,Not African-American,25 - 45,M,1,Low,Did Not Reoffend
+2921,Female,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+625,Male,African-American,25 - 45,F,10,Medium,Reoffended
+5403,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+84,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+3849,Female,African-American,Less than 25,M,1,Medium,Did Not Reoffend
+5027,Male,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+4349,Male,African-American,25 - 45,F,0,Low,Reoffended
+4035,Male,Not African-American,25 - 45,F,6,Low,Reoffended
+5608,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+410,Male,Not African-American,25 - 45,M,2,Low,Did Not Reoffend
+3667,Male,African-American,Greater than 45,F,12,Medium,Reoffended
+3316,Male,Not African-American,25 - 45,F,2,Low,Did Not Reoffend
+2388,Male,African-American,25 - 45,M,4,Low,Did Not Reoffend
+476,Male,African-American,25 - 45,F,16,High,Reoffended
+401,Male,Not African-American,Less than 25,F,0,High,Did Not Reoffend
+3578,Male,African-American,Greater than 45,F,1,Low,Did Not Reoffend
+1860,Female,Not African-American,25 - 45,M,0,Low,Reoffended
+233,Male,African-American,Less than 25,M,3,High,Reoffended
+5952,Male,African-American,25 - 45,M,5,High,Reoffended
+1454,Female,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+2980,Female,African-American,25 - 45,M,0,Low,Reoffended
+577,Male,African-American,Less than 25,M,2,High,Reoffended
+6104,Male,African-American,25 - 45,F,3,Low,Did Not Reoffend
+2347,Male,African-American,25 - 45,F,22,High,Reoffended
+3237,Male,Not African-American,25 - 45,F,3,Medium,Reoffended
+730,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+185,Male,Not African-American,25 - 45,M,1,Low,Reoffended
+683,Female,African-American,25 - 45,M,0,Low,Did Not Reoffend
+1643,Male,African-American,25 - 45,F,8,High,Reoffended
+2436,Male,African-American,25 - 45,F,2,High,Did Not Reoffend
+1242,Male,African-American,Less than 25,F,4,Medium,Did Not Reoffend
+2892,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+3737,Male,African-American,25 - 45,M,0,Low,Reoffended
+4603,Male,African-American,Less than 25,M,0,High,Reoffended
+5359,Male,Not African-American,25 - 45,F,1,Medium,Reoffended
+4838,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+263,Male,Not African-American,Less than 25,F,9,High,Reoffended
+230,Male,Not African-American,25 - 45,F,0,Medium,Did Not Reoffend
+4292,Male,African-American,Less than 25,M,0,Low,Did Not Reoffend
+5939,Male,Not African-American,25 - 45,F,2,Medium,Reoffended
+14,Male,African-American,25 - 45,F,3,High,Did Not Reoffend
+3742,Male,African-American,25 - 45,M,3,High,Reoffended
+506,Male,African-American,Less than 25,F,1,Low,Did Not Reoffend
+2350,Male,Not African-American,25 - 45,F,2,Low,Did Not Reoffend
+1480,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+4424,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+5233,Male,African-American,25 - 45,F,10,Medium,Reoffended
+2918,Male,Not African-American,Less than 25,F,2,Medium,Reoffended
+5817,Male,Not African-American,Less than 25,M,1,Medium,Did Not Reoffend
+1789,Female,African-American,25 - 45,M,0,Low,Did Not Reoffend
+2103,Male,African-American,25 - 45,F,7,Medium,Reoffended
+1119,Male,Not African-American,25 - 45,F,3,Low,Did Not Reoffend
+2275,Male,Not African-American,25 - 45,F,4,Low,Reoffended
+3909,Male,African-American,Less than 25,F,4,High,Reoffended
+926,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+228,Female,African-American,Less than 25,F,0,Low,Reoffended
+3262,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+1188,Male,Not African-American,25 - 45,M,2,Low,Reoffended
+3813,Female,Not African-American,25 - 45,M,1,Low,Did Not Reoffend
+5870,Female,Not African-American,25 - 45,F,5,Medium,Reoffended
+3321,Female,Not African-American,25 - 45,F,1,Medium,Did Not Reoffend
+6027,Female,Not African-American,Less than 25,M,0,Low,Did Not Reoffend
+1513,Female,Not African-American,Greater than 45,F,0,Low,Reoffended
+1514,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+2589,Female,Not African-American,25 - 45,F,10,Low,Reoffended
+2656,Male,Not African-American,Greater than 45,F,3,Low,Did Not Reoffend
+3947,Male,Not African-American,Less than 25,F,0,High,Did Not Reoffend
+1044,Male,Not African-American,Less than 25,M,4,High,Did Not Reoffend
+6123,Male,African-American,25 - 45,F,7,Medium,Reoffended
+2699,Male,African-American,25 - 45,F,7,Low,Did Not Reoffend
+4607,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+4184,Male,African-American,25 - 45,M,1,Low,Reoffended
+3479,Male,African-American,Less than 25,F,0,Low,Reoffended
+254,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+5144,Male,Not African-American,Less than 25,F,1,High,Did Not Reoffend
+6144,Female,Not African-American,25 - 45,M,4,Medium,Reoffended
+17,Male,African-American,Greater than 45,F,13,Medium,Reoffended
+221,Male,African-American,25 - 45,F,2,Medium,Reoffended
+5910,Male,Not African-American,25 - 45,F,4,Medium,Reoffended
+2104,Male,African-American,25 - 45,F,20,High,Reoffended
+65,Male,African-American,25 - 45,F,2,Low,Did Not Reoffend
+2570,Male,Not African-American,25 - 45,M,3,Low,Reoffended
+4466,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+157,Male,African-American,Less than 25,M,0,Low,Reoffended
+1770,Female,African-American,25 - 45,M,0,High,Reoffended
+2223,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+3290,Male,African-American,25 - 45,F,8,High,Did Not Reoffend
+4880,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+3611,Male,African-American,Greater than 45,M,15,Medium,Reoffended
+2885,Male,Not African-American,25 - 45,M,3,Low,Reoffended
+2819,Female,African-American,Less than 25,F,1,Low,Reoffended
+4024,Male,Not African-American,Less than 25,M,0,Low,Reoffended
+501,Female,Not African-American,Less than 25,F,0,Medium,Did Not Reoffend
+1966,Male,Not African-American,25 - 45,M,4,Low,Did Not Reoffend
+1335,Male,African-American,25 - 45,M,2,Low,Did Not Reoffend
+3475,Male,African-American,25 - 45,F,1,Medium,Did Not Reoffend
+5971,Male,African-American,Less than 25,M,1,Medium,Did Not Reoffend
+31,Female,Not African-American,25 - 45,M,4,Medium,Reoffended
+576,Male,Not African-American,25 - 45,F,7,High,Reoffended
+2127,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+604,Male,African-American,Less than 25,F,1,Medium,Did Not Reoffend
+1831,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+6003,Male,African-American,25 - 45,F,14,High,Reoffended
+4140,Male,African-American,Less than 25,F,2,Medium,Reoffended
+5753,Male,African-American,25 - 45,F,2,High,Reoffended
+1193,Female,African-American,Less than 25,M,1,Low,Reoffended
+4717,Male,African-American,Less than 25,F,0,Low,Reoffended
+177,Female,Not African-American,25 - 45,F,7,High,Reoffended
+696,Male,Not African-American,25 - 45,M,1,Low,Reoffended
+561,Female,African-American,25 - 45,F,0,Low,Did Not Reoffend
+4011,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+472,Male,African-American,Less than 25,F,3,Medium,Reoffended
+3006,Male,African-American,Less than 25,F,1,High,Did Not Reoffend
+5626,Female,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+6125,Male,African-American,25 - 45,F,4,Low,Did Not Reoffend
+5928,Male,African-American,Greater than 45,F,11,Low,Did Not Reoffend
+2927,Female,African-American,25 - 45,F,1,Low,Did Not Reoffend
+2855,Male,African-American,25 - 45,M,2,Medium,Did Not Reoffend
+1108,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+4746,Male,Not African-American,25 - 45,F,6,Low,Did Not Reoffend
+1128,Male,African-American,Less than 25,F,6,High,Did Not Reoffend
+2687,Male,Not African-American,25 - 45,F,8,Low,Reoffended
+168,Male,Not African-American,25 - 45,M,2,Low,Reoffended
+1101,Male,Not African-American,25 - 45,M,7,High,Reoffended
+599,Male,Not African-American,Less than 25,M,0,Low,Did Not Reoffend
+808,Male,African-American,Greater than 45,F,0,Medium,Reoffended
+2024,Male,African-American,Less than 25,F,4,Medium,Reoffended
+1803,Male,African-American,25 - 45,F,12,High,Reoffended
+319,Male,African-American,Less than 25,F,4,High,Reoffended
+4296,Male,African-American,25 - 45,F,8,High,Reoffended
+3806,Male,African-American,Greater than 45,F,3,Low,Did Not Reoffend
+2063,Male,African-American,Less than 25,M,0,Low,Did Not Reoffend
+5564,Male,African-American,25 - 45,M,1,Medium,Did Not Reoffend
+4952,Female,Not African-American,Less than 25,F,1,Medium,Did Not Reoffend
+2328,Male,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+5375,Male,African-American,25 - 45,M,5,Medium,Did Not Reoffend
+4714,Male,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+4377,Male,African-American,25 - 45,F,19,High,Reoffended
+5015,Male,African-American,25 - 45,F,1,Low,Reoffended
+5997,Male,African-American,25 - 45,M,9,High,Reoffended
+1170,Female,African-American,25 - 45,F,4,Low,Did Not Reoffend
+534,Male,Not African-American,25 - 45,M,5,High,Did Not Reoffend
+5894,Female,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+3074,Male,African-American,Less than 25,F,1,Low,Reoffended
+6109,Female,Not African-American,25 - 45,F,3,Medium,Did Not Reoffend
+755,Male,African-American,Greater than 45,F,3,Low,Did Not Reoffend
+5950,Female,Not African-American,Less than 25,M,0,Medium,Reoffended
+1084,Male,Not African-American,25 - 45,M,1,Low,Reoffended
+1509,Female,Not African-American,Greater than 45,F,4,Low,Reoffended
+1330,Male,Not African-American,25 - 45,F,2,Medium,Reoffended
+4274,Male,Not African-American,Greater than 45,M,2,Low,Reoffended
+1005,Male,Not African-American,25 - 45,F,2,Low,Reoffended
+3916,Male,African-American,Greater than 45,M,4,Low,Did Not Reoffend
+4372,Male,African-American,Less than 25,F,1,Medium,Reoffended
+2629,Male,Not African-American,25 - 45,F,2,Low,Reoffended
+5565,Female,African-American,25 - 45,F,4,Low,Did Not Reoffend
+960,Male,African-American,Greater than 45,F,5,Low,Did Not Reoffend
+2957,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+996,Female,Not African-American,25 - 45,F,2,Medium,Reoffended
+2932,Male,African-American,Less than 25,F,3,High,Reoffended
+1720,Female,Not African-American,25 - 45,M,1,Low,Did Not Reoffend
+1400,Male,African-American,25 - 45,F,21,Medium,Reoffended
+538,Male,African-American,25 - 45,F,18,High,Reoffended
+5220,Male,African-American,Less than 25,F,8,Medium,Reoffended
+3540,Male,African-American,Greater than 45,F,0,Low,Reoffended
+2498,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+5257,Male,African-American,25 - 45,M,6,Low,Did Not Reoffend
+2499,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+4228,Female,African-American,25 - 45,M,9,High,Did Not Reoffend
+1536,Male,Not African-American,Greater than 45,M,1,Low,Reoffended
+3392,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+308,Male,African-American,Less than 25,F,4,High,Reoffended
+468,Female,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+4522,Male,African-American,25 - 45,F,13,High,Reoffended
+50,Male,Not African-American,Greater than 45,F,8,Medium,Did Not Reoffend
+2801,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+1360,Male,Not African-American,Less than 25,F,0,Low,Reoffended
+2615,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+1221,Male,African-American,25 - 45,M,2,Medium,Did Not Reoffend
+323,Male,African-American,Greater than 45,F,2,Low,Did Not Reoffend
+1630,Male,African-American,25 - 45,F,1,High,Did Not Reoffend
+3557,Male,African-American,Greater than 45,F,8,High,Reoffended
+5036,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+1569,Male,African-American,Less than 25,M,0,Medium,Did Not Reoffend
+705,Male,Not African-American,Less than 25,F,0,Low,Reoffended
+2409,Male,African-American,25 - 45,F,22,High,Did Not Reoffend
+1760,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+3752,Male,African-American,25 - 45,F,5,Low,Did Not Reoffend
+3787,Female,Not African-American,25 - 45,M,0,Low,Reoffended
+5713,Female,African-American,25 - 45,M,0,High,Did Not Reoffend
+4999,Male,Not African-American,25 - 45,F,1,Low,Did Not Reoffend
+4877,Male,African-American,25 - 45,F,12,High,Reoffended
+5822,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+5243,Male,African-American,Greater than 45,F,8,Low,Reoffended
+4273,Male,Not African-American,Greater than 45,F,26,Medium,Reoffended
+4316,Female,African-American,Less than 25,F,2,Medium,Reoffended
+1477,Male,Not African-American,25 - 45,F,7,High,Reoffended
+5283,Male,African-American,25 - 45,M,1,Medium,Reoffended
+2240,Male,African-American,25 - 45,F,0,Medium,Reoffended
+5897,Male,African-American,25 - 45,M,2,High,Reoffended
+4489,Male,African-American,25 - 45,F,6,Low,Reoffended
+3905,Female,Not African-American,25 - 45,F,2,Low,Did Not Reoffend
+1580,Male,Not African-American,Less than 25,F,1,Low,Reoffended
+5863,Male,African-American,25 - 45,F,5,Medium,Reoffended
+3070,Female,African-American,Less than 25,F,2,Medium,Did Not Reoffend
+3195,Male,Not African-American,25 - 45,M,2,Low,Reoffended
+3337,Male,Not African-American,Less than 25,F,1,Low,Reoffended
+4201,Male,Not African-American,Less than 25,F,0,High,Reoffended
+469,Male,African-American,25 - 45,F,3,Low,Reoffended
+2776,Male,Not African-American,25 - 45,M,2,Low,Did Not Reoffend
+5610,Male,African-American,Less than 25,F,0,High,Reoffended
+1507,Male,African-American,25 - 45,F,3,Low,Reoffended
+5970,Male,Not African-American,25 - 45,F,4,Low,Reoffended
+4863,Male,African-American,Greater than 45,M,5,Low,Did Not Reoffend
+1092,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+4437,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+239,Male,Not African-American,25 - 45,F,3,Low,Did Not Reoffend
+5089,Male,Not African-American,Greater than 45,F,5,Medium,Did Not Reoffend
+5357,Female,Not African-American,Greater than 45,F,6,Low,Did Not Reoffend
+199,Male,Not African-American,25 - 45,F,1,Low,Did Not Reoffend
+5878,Male,Not African-American,25 - 45,F,0,Low,Reoffended
+2410,Male,Not African-American,25 - 45,F,7,Medium,Did Not Reoffend
+2851,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+2569,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+1042,Male,African-American,25 - 45,M,6,Medium,Did Not Reoffend
+5203,Male,African-American,25 - 45,F,1,High,Did Not Reoffend
+2348,Male,Not African-American,Less than 25,F,2,Low,Did Not Reoffend
+491,Male,Not African-American,Greater than 45,F,5,Low,Reoffended
+3951,Male,Not African-American,25 - 45,M,2,Medium,Did Not Reoffend
+5549,Male,African-American,25 - 45,F,1,Low,Did Not Reoffend
+5559,Male,Not African-American,Less than 25,M,4,Low,Reoffended
+2778,Male,Not African-American,Less than 25,M,4,Medium,Reoffended
+101,Male,African-American,25 - 45,F,28,High,Reoffended
+4379,Male,African-American,25 - 45,F,7,Medium,Reoffended
+5501,Female,Not African-American,Greater than 45,F,4,Low,Reoffended
+259,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+2181,Male,African-American,25 - 45,F,11,High,Reoffended
+2821,Male,Not African-American,25 - 45,F,2,Low,Reoffended
+1194,Male,Not African-American,Greater than 45,M,2,Low,Did Not Reoffend
+3204,Female,African-American,25 - 45,F,1,Low,Did Not Reoffend
+4001,Female,African-American,Less than 25,M,0,High,Reoffended
+1963,Female,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+3076,Male,Not African-American,Less than 25,F,3,Medium,Reoffended
+2600,Male,African-American,25 - 45,M,5,Medium,Did Not Reoffend
+1488,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+1832,Male,African-American,25 - 45,M,8,Low,Reoffended
+5426,Male,African-American,Less than 25,F,0,High,Did Not Reoffend
+5453,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+3878,Male,African-American,25 - 45,F,1,Low,Did Not Reoffend
+4958,Female,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+4588,Female,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+2142,Female,African-American,Greater than 45,F,2,Low,Did Not Reoffend
+3135,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+5839,Male,Not African-American,25 - 45,F,2,Low,Reoffended
+2252,Male,Not African-American,25 - 45,F,2,Low,Reoffended
+2157,Male,African-American,Less than 25,F,1,Low,Reoffended
+1197,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+5480,Male,Not African-American,25 - 45,F,6,Low,Reoffended
+5106,Male,African-American,25 - 45,F,5,Medium,Did Not Reoffend
+3238,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+4664,Male,African-American,25 - 45,F,8,Medium,Did Not Reoffend
+1199,Female,African-American,25 - 45,F,8,High,Reoffended
+1103,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+4630,Male,Not African-American,Greater than 45,M,2,Low,Did Not Reoffend
+4760,Male,African-American,25 - 45,F,4,Low,Reoffended
+19,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+3315,Male,Not African-American,Greater than 45,M,4,Low,Reoffended
+2706,Male,Not African-American,Less than 25,M,3,High,Reoffended
+217,Female,Not African-American,Less than 25,F,5,Medium,Reoffended
+742,Female,African-American,25 - 45,F,4,Low,Did Not Reoffend
+2432,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+4441,Male,African-American,25 - 45,F,3,Medium,Reoffended
+4250,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+5437,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+622,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+5648,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+5778,Male,African-American,25 - 45,F,13,High,Reoffended
+4092,Female,Not African-American,Greater than 45,F,0,Low,Reoffended
+5074,Male,Not African-American,Greater than 45,F,0,Medium,Did Not Reoffend
+3398,Male,Not African-American,25 - 45,F,0,Medium,Did Not Reoffend
+4086,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+1047,Male,Not African-American,Less than 25,F,1,Medium,Reoffended
+1002,Male,Not African-American,Less than 25,F,5,Medium,Did Not Reoffend
+88,Male,Not African-American,Less than 25,F,8,Medium,Reoffended
+2077,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+324,Male,African-American,25 - 45,F,7,Low,Did Not Reoffend
+865,Female,African-American,Greater than 45,F,0,Low,Did Not Reoffend
+4940,Male,Not African-American,Less than 25,M,2,Low,Did Not Reoffend
+6008,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+4153,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+408,Male,Not African-American,25 - 45,F,0,Medium,Did Not Reoffend
+325,Male,Not African-American,Greater than 45,F,23,High,Reoffended
+2742,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+3063,Male,Not African-American,25 - 45,F,5,Low,Did Not Reoffend
+132,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+3897,Male,Not African-American,Greater than 45,F,3,Medium,Did Not Reoffend
+812,Male,Not African-American,Less than 25,M,0,Low,Did Not Reoffend
+4046,Male,Not African-American,Greater than 45,F,3,Low,Did Not Reoffend
+4775,Male,Not African-American,Less than 25,F,0,Low,Reoffended
+2463,Male,African-American,Greater than 45,M,1,Low,Reoffended
+2378,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+672,Male,African-American,Less than 25,F,0,Medium,Reoffended
+2170,Male,Not African-American,Less than 25,F,1,Low,Did Not Reoffend
+5846,Male,African-American,Greater than 45,F,6,Low,Did Not Reoffend
+3268,Male,African-American,Less than 25,M,1,Low,Reoffended
+2517,Male,African-American,25 - 45,M,1,Low,Reoffended
+6071,Female,African-American,25 - 45,F,3,Medium,Reoffended
+1600,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+6162,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+4004,Male,African-American,Greater than 45,F,4,Low,Did Not Reoffend
+1840,Female,Not African-American,25 - 45,F,2,Medium,Reoffended
+5417,Male,Not African-American,Less than 25,F,1,Medium,Did Not Reoffend
+3792,Female,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+371,Male,African-American,Less than 25,F,1,High,Reoffended
+1186,Male,African-American,25 - 45,F,0,Low,Reoffended
+5940,Female,African-American,25 - 45,F,1,Medium,Did Not Reoffend
+4370,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+805,Female,Not African-American,25 - 45,F,0,Medium,Did Not Reoffend
+1046,Male,African-American,25 - 45,F,4,High,Reoffended
+3441,Male,African-American,25 - 45,M,1,Low,Did Not Reoffend
+1357,Male,Not African-American,25 - 45,F,3,Medium,Did Not Reoffend
+5724,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+5649,Female,Not African-American,25 - 45,F,3,Low,Reoffended
+5182,Female,African-American,25 - 45,F,0,Low,Did Not Reoffend
+2981,Male,Not African-American,Less than 25,F,0,High,Reoffended
+4562,Male,African-American,25 - 45,M,4,Medium,Did Not Reoffend
+1919,Male,African-American,25 - 45,F,21,High,Reoffended
+3867,Male,African-American,25 - 45,F,1,Low,Reoffended
+747,Male,Not African-American,Less than 25,F,1,High,Reoffended
+2805,Male,Not African-American,Less than 25,F,0,High,Reoffended
+2755,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+1916,Male,Not African-American,25 - 45,F,0,Medium,Reoffended
+3901,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+5849,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+439,Male,Not African-American,Less than 25,F,0,Low,Did Not Reoffend
+4640,Male,Not African-American,25 - 45,M,5,Medium,Reoffended
+4382,Female,African-American,25 - 45,F,4,Medium,Did Not Reoffend
+1869,Female,African-American,25 - 45,F,7,Low,Reoffended
+3247,Male,Not African-American,25 - 45,F,0,Low,Reoffended
+2765,Male,African-American,25 - 45,F,3,High,Reoffended
+3402,Male,African-American,25 - 45,M,1,Low,Reoffended
+2110,Male,Not African-American,Less than 25,F,3,Medium,Reoffended
+2895,Male,African-American,25 - 45,F,9,Medium,Reoffended
+3515,Male,African-American,Less than 25,F,7,High,Reoffended
+1512,Male,African-American,25 - 45,F,2,Low,Did Not Reoffend
+279,Female,African-American,Less than 25,F,0,High,Reoffended
+3571,Male,African-American,Less than 25,F,6,High,Reoffended
+3717,Male,African-American,Greater than 45,F,3,Low,Did Not Reoffend
+3555,Male,African-American,Less than 25,F,1,Medium,Did Not Reoffend
+5682,Male,African-American,Less than 25,F,0,High,Reoffended
+5469,Male,African-American,25 - 45,F,1,High,Did Not Reoffend
+2091,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+1057,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+2154,Male,African-American,Less than 25,F,2,Medium,Reoffended
+5002,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+3794,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+1672,Male,African-American,Greater than 45,M,5,Low,Did Not Reoffend
+4317,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+1738,Male,African-American,Less than 25,F,1,High,Reoffended
+4063,Male,Not African-American,Less than 25,F,1,Low,Reoffended
+1550,Male,African-American,25 - 45,F,8,High,Reoffended
+3721,Male,African-American,25 - 45,M,0,Medium,Reoffended
+2799,Male,Not African-American,Less than 25,M,1,Low,Reoffended
+3306,Male,African-American,Less than 25,F,5,High,Reoffended
+2554,Male,African-American,Greater than 45,F,0,Low,Reoffended
+3881,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+321,Male,African-American,25 - 45,F,23,High,Reoffended
+1219,Female,Not African-American,Greater than 45,F,2,Low,Did Not Reoffend
+2579,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+5949,Male,Not African-American,25 - 45,M,0,High,Did Not Reoffend
+2098,Male,African-American,25 - 45,M,18,High,Reoffended
+3164,Male,Not African-American,25 - 45,F,0,Medium,Did Not Reoffend
+1620,Male,African-American,25 - 45,F,4,High,Did Not Reoffend
+4618,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+5563,Female,Not African-American,Greater than 45,M,0,Low,Reoffended
+2287,Male,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+1310,Female,Not African-American,Greater than 45,M,2,Low,Reoffended
+5767,Male,African-American,Less than 25,F,0,Medium,Reoffended
+245,Male,Not African-American,25 - 45,M,5,Low,Did Not Reoffend
+420,Male,African-American,25 - 45,F,0,Medium,Did Not Reoffend
+1867,Male,African-American,25 - 45,F,2,Medium,Reoffended
+553,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+373,Male,Not African-American,Greater than 45,F,4,Low,Did Not Reoffend
+3265,Male,African-American,Less than 25,F,1,Low,Did Not Reoffend
+1561,Male,African-American,25 - 45,F,1,Low,Did Not Reoffend
+4416,Male,African-American,25 - 45,M,3,Low,Reoffended
+1419,Male,Not African-American,Less than 25,F,0,Low,Did Not Reoffend
+2991,Male,Not African-American,Greater than 45,F,16,High,Reoffended
+893,Male,Not African-American,Less than 25,M,0,Low,Did Not Reoffend
+626,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+181,Male,African-American,25 - 45,F,15,High,Did Not Reoffend
+4560,Male,Not African-American,Less than 25,F,1,Low,Did Not Reoffend
+3085,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+712,Male,African-American,Greater than 45,M,4,Medium,Reoffended
+691,Male,African-American,25 - 45,F,14,Medium,Reoffended
+4073,Male,Not African-American,Greater than 45,M,4,Low,Did Not Reoffend
+4440,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+5459,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+3653,Female,African-American,Less than 25,M,0,Low,Did Not Reoffend
+4369,Female,Not African-American,25 - 45,F,9,Medium,Reoffended
+530,Male,African-American,Greater than 45,F,15,Medium,Reoffended
+3497,Male,Not African-American,25 - 45,F,3,Low,Did Not Reoffend
+2792,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+4230,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+5410,Male,African-American,25 - 45,M,27,High,Reoffended
+5192,Male,African-American,Greater than 45,F,25,Medium,Did Not Reoffend
+3608,Male,African-American,25 - 45,F,12,Low,Reoffended
+3604,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+6154,Male,African-American,25 - 45,M,8,Medium,Reoffended
+2215,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+5674,Male,Not African-American,25 - 45,M,6,Medium,Reoffended
+2345,Female,African-American,25 - 45,M,0,Medium,Reoffended
+2763,Female,Not African-American,25 - 45,M,1,Medium,Reoffended
+2751,Female,Not African-American,25 - 45,F,2,Medium,Reoffended
+1825,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+2929,Male,Not African-American,Greater than 45,M,9,Medium,Reoffended
+1142,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+4221,Male,African-American,25 - 45,M,0,High,Reoffended
+3494,Female,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+3684,Male,Not African-American,25 - 45,F,1,Low,Did Not Reoffend
+15,Male,Not African-American,25 - 45,F,6,Medium,Reoffended
+5580,Male,African-American,Less than 25,F,1,Low,Reoffended
+1049,Female,Not African-American,25 - 45,F,0,Low,Reoffended
+4559,Male,African-American,Less than 25,M,7,High,Reoffended
+4367,Male,Not African-American,25 - 45,M,1,Medium,Reoffended
+5389,Female,Not African-American,25 - 45,F,3,Medium,Reoffended
+5574,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+2131,Male,African-American,25 - 45,M,1,Low,Did Not Reoffend
+5556,Male,African-American,Less than 25,F,2,High,Reoffended
+4275,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+1858,Male,African-American,Greater than 45,F,1,Low,Did Not Reoffend
+932,Female,Not African-American,25 - 45,F,5,High,Reoffended
+4947,Male,African-American,Less than 25,F,2,Medium,Reoffended
+1038,Male,Not African-American,Less than 25,F,8,High,Reoffended
+5434,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+1212,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+5758,Male,African-American,Less than 25,F,0,High,Did Not Reoffend
+5466,Male,African-American,25 - 45,M,3,Medium,Did Not Reoffend
+2323,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+3065,Male,African-American,Less than 25,F,0,High,Reoffended
+4436,Male,African-American,25 - 45,F,2,Low,Did Not Reoffend
+3018,Male,African-American,25 - 45,M,5,Medium,Did Not Reoffend
+3767,Female,African-American,25 - 45,M,0,Low,Did Not Reoffend
+1496,Male,African-American,Less than 25,F,1,Low,Did Not Reoffend
+1153,Male,African-American,25 - 45,M,1,Low,Did Not Reoffend
+1954,Male,African-American,Less than 25,F,3,Medium,Did Not Reoffend
+3332,Male,Not African-American,Greater than 45,F,18,Low,Did Not Reoffend
+5152,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+586,Male,Not African-American,Greater than 45,F,2,Medium,Reoffended
+6014,Male,Not African-American,Greater than 45,M,4,Low,Did Not Reoffend
+2119,Male,Not African-American,Less than 25,M,1,Low,Did Not Reoffend
+1263,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+2594,Male,Not African-American,Less than 25,M,1,Medium,Did Not Reoffend
+1195,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+8,Male,African-American,Less than 25,M,3,Medium,Reoffended
+3789,Male,African-American,25 - 45,F,2,Medium,Did Not Reoffend
+4582,Male,Not African-American,25 - 45,M,3,Low,Did Not Reoffend
+964,Female,African-American,25 - 45,F,14,High,Did Not Reoffend
+6167,Male,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+2004,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+3049,Male,African-American,25 - 45,F,20,High,Reoffended
+549,Male,Not African-American,25 - 45,F,2,Low,Reoffended
+1090,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+2338,Male,Not African-American,Less than 25,M,0,Medium,Reoffended
+1650,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+426,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+5441,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+33,Male,African-American,25 - 45,F,21,High,Reoffended
+3626,Male,Not African-American,Greater than 45,F,13,Low,Did Not Reoffend
+44,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+4828,Male,African-American,Less than 25,F,0,Medium,Reoffended
+5697,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+5272,Male,African-American,25 - 45,F,4,Low,Reoffended
+879,Male,Not African-American,Greater than 45,M,5,Low,Did Not Reoffend
+3685,Male,African-American,25 - 45,F,3,High,Reoffended
+2276,Female,Not African-American,25 - 45,F,2,Low,Did Not Reoffend
+4593,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+3628,Male,African-American,Greater than 45,F,0,Low,Did Not Reoffend
+1499,Male,African-American,Less than 25,M,0,Low,Did Not Reoffend
+2728,Male,African-American,Less than 25,M,9,High,Reoffended
+63,Male,African-American,25 - 45,F,5,Medium,Reoffended
+1872,Female,African-American,25 - 45,F,3,Low,Reoffended
+2225,Male,African-American,25 - 45,M,0,Medium,Reoffended
+3815,Male,Not African-American,25 - 45,F,2,Low,Reoffended
+3782,Female,Not African-American,Less than 25,M,0,High,Did Not Reoffend
+5650,Male,Not African-American,Greater than 45,F,0,Low,Reoffended
+227,Female,African-American,Greater than 45,F,0,Low,Did Not Reoffend
+2937,Female,Not African-American,25 - 45,F,0,Low,Reoffended
+2187,Male,African-American,25 - 45,M,5,Medium,Reoffended
+5313,Male,Not African-American,25 - 45,M,1,Low,Did Not Reoffend
+2780,Male,African-American,25 - 45,F,9,Medium,Reoffended
+179,Female,African-American,25 - 45,F,1,High,Did Not Reoffend
+2387,Male,Not African-American,25 - 45,M,1,High,Did Not Reoffend
+3933,Male,Not African-American,25 - 45,F,2,Medium,Did Not Reoffend
+4537,Male,Not African-American,25 - 45,F,6,High,Did Not Reoffend
+5973,Male,African-American,25 - 45,M,3,Medium,Reoffended
+3165,Female,African-American,25 - 45,F,2,Low,Did Not Reoffend
+4339,Male,African-American,Greater than 45,M,0,Low,Reoffended
+6066,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+4267,Male,African-American,25 - 45,F,11,Medium,Reoffended
+2330,Male,Not African-American,25 - 45,M,2,Low,Did Not Reoffend
+5083,Male,African-American,Greater than 45,F,9,Medium,Reoffended
+2233,Male,Not African-American,25 - 45,F,8,Medium,Reoffended
+1485,Female,African-American,25 - 45,F,0,Low,Did Not Reoffend
+5282,Male,African-American,25 - 45,F,18,High,Reoffended
+2663,Male,Not African-American,25 - 45,F,3,Medium,Reoffended
+4396,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+6084,Male,African-American,Less than 25,F,1,Medium,Reoffended
+4047,Male,Not African-American,25 - 45,F,4,Low,Reoffended
+3358,Male,Not African-American,25 - 45,F,6,Medium,Did Not Reoffend
+3650,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+5904,Male,Not African-American,25 - 45,F,8,High,Reoffended
+4510,Female,Not African-American,Less than 25,F,0,High,Reoffended
+4540,Male,African-American,Greater than 45,F,8,High,Reoffended
+5363,Female,African-American,25 - 45,M,2,Low,Did Not Reoffend
+473,Male,African-American,Greater than 45,M,3,Low,Did Not Reoffend
+4336,Male,African-American,Less than 25,M,0,Medium,Did Not Reoffend
+1654,Male,Not African-American,Less than 25,F,0,Low,Did Not Reoffend
+2488,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+787,Male,African-American,Greater than 45,M,3,High,Did Not Reoffend
+297,Male,Not African-American,Less than 25,F,0,Low,Did Not Reoffend
+303,Female,Not African-American,Less than 25,F,1,Low,Did Not Reoffend
+5708,Male,Not African-American,25 - 45,M,2,Medium,Reoffended
+2518,Male,Not African-American,Less than 25,F,0,Medium,Did Not Reoffend
+1520,Male,Not African-American,Greater than 45,M,1,Medium,Did Not Reoffend
+5372,Male,African-American,25 - 45,F,9,Medium,Did Not Reoffend
+2638,Male,African-American,Less than 25,F,2,Medium,Reoffended
+655,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+3523,Male,African-American,25 - 45,M,1,Medium,Did Not Reoffend
+4693,Female,African-American,25 - 45,M,1,Low,Reoffended
+783,Female,Not African-American,Greater than 45,F,1,Low,Reoffended
+240,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+5281,Male,Not African-American,Less than 25,M,1,Low,Did Not Reoffend
+3422,Female,Not African-American,25 - 45,F,3,Medium,Did Not Reoffend
+3734,Male,African-American,25 - 45,F,1,Low,Did Not Reoffend
+257,Female,African-American,25 - 45,F,5,Low,Did Not Reoffend
+3932,Male,African-American,25 - 45,M,0,Low,Reoffended
+6128,Male,African-American,Less than 25,F,0,Medium,Reoffended
+1407,Male,African-American,Greater than 45,F,19,Low,Did Not Reoffend
+1718,Male,Not African-American,25 - 45,F,1,Low,Did Not Reoffend
+5555,Male,African-American,Greater than 45,F,7,High,Reoffended
+4502,Male,Not African-American,25 - 45,F,10,Medium,Reoffended
+3357,Female,African-American,Less than 25,F,0,High,Reoffended
+4710,Female,Not African-American,25 - 45,F,3,Medium,Reoffended
+3622,Female,Not African-American,25 - 45,F,4,Low,Reoffended
+4764,Female,Not African-American,25 - 45,F,5,Low,Did Not Reoffend
+5871,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+1223,Male,African-American,25 - 45,F,2,Medium,Reoffended
+5148,Female,African-American,25 - 45,M,3,Low,Reoffended
+5464,Male,African-American,Less than 25,F,0,Low,Reoffended
+881,Male,Not African-American,Greater than 45,F,2,Low,Did Not Reoffend
+333,Male,African-American,Less than 25,M,0,High,Reoffended
+5129,Male,Not African-American,Less than 25,F,2,High,Reoffended
+4365,Male,African-American,Less than 25,F,0,Medium,Reoffended
+3958,Male,African-American,25 - 45,M,6,Low,Reoffended
+4470,Female,Not African-American,Greater than 45,M,1,Low,Reoffended
+1614,Male,African-American,25 - 45,F,14,High,Reoffended
+6005,Male,African-American,25 - 45,M,0,Medium,Did Not Reoffend
+4162,Male,African-American,Less than 25,F,1,Low,Did Not Reoffend
+1905,Female,Not African-American,Less than 25,F,0,Low,Reoffended
+585,Male,African-American,25 - 45,M,3,Low,Reoffended
+1699,Female,African-American,25 - 45,M,1,Low,Did Not Reoffend
+1375,Male,Not African-American,25 - 45,F,9,Medium,Reoffended
+3121,Male,African-American,Greater than 45,F,13,Medium,Did Not Reoffend
+247,Male,Not African-American,Less than 25,F,0,Medium,Reoffended
+3102,Male,African-American,25 - 45,F,11,Medium,Did Not Reoffend
+3107,Male,African-American,Greater than 45,M,0,Low,Reoffended
+3459,Female,Not African-American,Less than 25,M,2,Medium,Did Not Reoffend
+5545,Female,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+1897,Male,African-American,Greater than 45,M,0,Medium,Did Not Reoffend
+4811,Male,African-American,25 - 45,M,2,Medium,Did Not Reoffend
+1862,Male,African-American,Less than 25,M,0,Medium,Did Not Reoffend
+2513,Female,African-American,Greater than 45,F,0,Low,Did Not Reoffend
+1535,Male,Not African-American,25 - 45,F,0,Medium,Did Not Reoffend
+1350,Male,Not African-American,25 - 45,F,1,Low,Did Not Reoffend
+1161,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+4122,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+5021,Female,African-American,Greater than 45,M,0,Medium,Did Not Reoffend
+2124,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+1039,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+2611,Male,African-American,Less than 25,M,0,Low,Reoffended
+1235,Male,Not African-American,25 - 45,M,2,Medium,Reoffended
+598,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+1817,Male,Not African-American,25 - 45,M,5,Medium,Reoffended
+315,Female,African-American,Less than 25,F,0,Low,Did Not Reoffend
+1362,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+2306,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+2144,Female,African-American,25 - 45,M,0,Low,Did Not Reoffend
+5493,Female,African-American,Less than 25,F,0,Medium,Reoffended
+2149,Male,African-American,Greater than 45,M,3,Low,Reoffended
+149,Male,African-American,25 - 45,M,6,Medium,Reoffended
+1411,Male,African-American,25 - 45,M,0,Low,Reoffended
+6097,Male,African-American,25 - 45,F,3,Low,Reoffended
+290,Male,African-American,Less than 25,F,2,High,Reoffended
+453,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+1835,Female,Not African-American,Less than 25,M,0,Medium,Reoffended
+1302,Female,African-American,Less than 25,M,2,Medium,Reoffended
+4652,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+2718,Female,African-American,25 - 45,F,3,Low,Did Not Reoffend
+3248,Male,African-American,25 - 45,F,8,Medium,Reoffended
+4139,Male,Not African-American,Greater than 45,F,1,Low,Reoffended
+2399,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+5128,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+6131,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+1425,Male,African-American,Greater than 45,M,1,Low,Did Not Reoffend
+4741,Male,African-American,Less than 25,F,1,Low,Did Not Reoffend
+4803,Female,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+4605,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+1351,Male,African-American,Greater than 45,F,8,Low,Reoffended
+5851,Female,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+5722,Male,Not African-American,Greater than 45,F,3,Low,Did Not Reoffend
+4884,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+1172,Male,Not African-American,25 - 45,M,7,Low,Did Not Reoffend
+3370,Male,Not African-American,25 - 45,M,3,Low,Reoffended
+1149,Male,African-American,Less than 25,M,1,Medium,Reoffended
+3660,Male,Not African-American,Greater than 45,M,3,Low,Did Not Reoffend
+2031,Male,Not African-American,25 - 45,M,0,Medium,Did Not Reoffend
+5113,Male,Not African-American,Greater than 45,M,2,Low,Did Not Reoffend
+2521,Male,Not African-American,Greater than 45,M,2,Low,Did Not Reoffend
+1406,Female,African-American,Less than 25,F,1,Medium,Did Not Reoffend
+5227,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+4320,Male,African-American,25 - 45,F,8,High,Reoffended
+1471,Male,African-American,25 - 45,F,8,Low,Did Not Reoffend
+3593,Female,Not African-American,25 - 45,M,22,High,Reoffended
+349,Male,African-American,25 - 45,M,7,Low,Reoffended
+4687,Male,Not African-American,25 - 45,F,10,Medium,Reoffended
+3680,Female,African-American,25 - 45,F,2,Low,Reoffended
+5378,Female,African-American,Less than 25,M,0,Medium,Reoffended
+381,Male,African-American,25 - 45,M,13,High,Reoffended
+5802,Female,Not African-American,25 - 45,F,1,High,Did Not Reoffend
+3182,Female,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+3830,Male,African-American,25 - 45,F,0,Low,Reoffended
+422,Male,Not African-American,25 - 45,F,7,Medium,Reoffended
+4386,Male,African-American,25 - 45,M,11,High,Reoffended
+1018,Male,African-American,25 - 45,F,4,Medium,Reoffended
+5235,Male,African-American,Less than 25,F,1,High,Reoffended
+3904,Female,Not African-American,Greater than 45,F,2,Low,Did Not Reoffend
+4660,Female,Not African-American,25 - 45,F,2,Medium,Reoffended
+5440,Male,African-American,25 - 45,F,2,Medium,Did Not Reoffend
+2132,Male,Not African-American,25 - 45,F,0,Low,Reoffended
+124,Male,African-American,25 - 45,M,8,Medium,Reoffended
+102,Male,African-American,25 - 45,M,1,Medium,Did Not Reoffend
+1559,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+3162,Male,African-American,Less than 25,F,0,Medium,Reoffended
+4074,Male,African-American,25 - 45,M,1,Low,Reoffended
+5061,Male,Not African-American,25 - 45,M,4,Medium,Reoffended
+3649,Male,African-American,Less than 25,F,3,Low,Reoffended
+486,Male,African-American,25 - 45,F,15,Medium,Did Not Reoffend
+3169,Male,African-American,25 - 45,F,3,Medium,Did Not Reoffend
+4299,Male,Not African-American,Greater than 45,F,4,Low,Did Not Reoffend
+4985,Female,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+3279,Male,African-American,25 - 45,F,19,High,Reoffended
+6009,Male,African-American,Less than 25,F,3,Medium,Reoffended
+135,Female,African-American,25 - 45,M,2,Low,Reoffended
+2057,Female,Not African-American,Greater than 45,M,0,Low,Reoffended
+5310,Male,African-American,Less than 25,M,0,Low,Reoffended
+4977,Male,Not African-American,Greater than 45,F,12,Low,Reoffended
+1669,Male,African-American,25 - 45,F,9,High,Did Not Reoffend
+6103,Male,Not African-American,Greater than 45,M,8,Low,Did Not Reoffend
+6140,Female,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+5903,Female,African-American,25 - 45,F,1,Low,Did Not Reoffend
+1971,Female,African-American,Less than 25,F,0,Low,Did Not Reoffend
+1175,Male,Not African-American,Greater than 45,M,2,Low,Reoffended
+3187,Female,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+994,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+4077,Female,African-American,25 - 45,M,3,High,Did Not Reoffend
+1393,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+807,Male,African-American,25 - 45,M,1,Medium,Reoffended
+5693,Male,African-American,Greater than 45,M,2,Low,Did Not Reoffend
+2596,Male,Not African-American,Less than 25,F,0,Medium,Did Not Reoffend
+4512,Male,African-American,25 - 45,M,8,High,Reoffended
+2456,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+4925,Male,African-American,25 - 45,F,2,Medium,Did Not Reoffend
+4638,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+1740,Male,African-American,25 - 45,M,2,Low,Did Not Reoffend
+3869,Female,African-American,Less than 25,F,1,Low,Did Not Reoffend
+4258,Male,Not African-American,25 - 45,M,2,Low,Did Not Reoffend
+354,Male,Not African-American,25 - 45,M,0,Medium,Reoffended
+2163,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+3545,Male,African-American,Greater than 45,M,11,Medium,Reoffended
+1756,Male,Not African-American,25 - 45,F,4,Low,Reoffended
+3484,Female,Not African-American,25 - 45,M,0,Low,Reoffended
+144,Male,Not African-American,Less than 25,F,0,Low,Did Not Reoffend
+380,Male,Not African-American,Less than 25,F,0,High,Reoffended
+1807,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+5964,Male,Not African-American,Greater than 45,F,7,Low,Did Not Reoffend
+5181,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+4205,Male,African-American,Less than 25,F,0,High,Reoffended
+121,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+5474,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+611,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+5668,Male,Not African-American,Greater than 45,M,5,Medium,Did Not Reoffend
+2145,Male,Not African-American,Less than 25,F,0,High,Reoffended
+418,Male,African-American,25 - 45,F,4,Low,Reoffended
+1665,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+3482,Male,Not African-American,Greater than 45,M,2,Low,Did Not Reoffend
+1741,Male,Not African-American,Less than 25,F,0,Low,Reoffended
+1612,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+2689,Male,Not African-American,25 - 45,F,2,Medium,Did Not Reoffend
+2775,Male,Not African-American,25 - 45,M,1,Low,Did Not Reoffend
+555,Male,African-American,Greater than 45,F,20,High,Did Not Reoffend
+3350,Male,African-American,25 - 45,M,4,Low,Did Not Reoffend
+5635,Male,African-American,Greater than 45,M,13,Medium,Did Not Reoffend
+2232,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+5701,Male,African-American,Less than 25,F,5,High,Reoffended
+1881,Female,Not African-American,25 - 45,F,1,Low,Reoffended
+248,Male,African-American,25 - 45,F,5,Low,Reoffended
+4758,Male,African-American,25 - 45,M,6,Medium,Reoffended
+4464,Male,Not African-American,Less than 25,F,0,Low,Did Not Reoffend
+5017,Male,African-American,Less than 25,M,2,Medium,Reoffended
+5636,Female,African-American,25 - 45,F,6,Medium,Did Not Reoffend
+447,Male,African-American,25 - 45,M,1,Low,Reoffended
+5572,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+4816,Male,Not African-American,Less than 25,F,5,Medium,Reoffended
+4773,Male,African-American,25 - 45,F,7,High,Reoffended
+4402,Male,African-American,Less than 25,F,2,High,Reoffended
+1886,Male,African-American,25 - 45,M,1,Low,Reoffended
+5090,Male,African-American,25 - 45,M,4,Medium,Reoffended
+3771,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+5978,Male,African-American,25 - 45,F,18,High,Reoffended
+5479,Male,African-American,25 - 45,M,4,Low,Reoffended
+3827,Male,African-American,25 - 45,F,1,Low,Did Not Reoffend
+1328,Male,African-American,25 - 45,F,10,Low,Reoffended
+3035,Male,African-American,Less than 25,F,1,High,Reoffended
+1609,Male,Not African-American,25 - 45,F,15,High,Reoffended
+5658,Female,African-American,25 - 45,F,1,Medium,Did Not Reoffend
+2575,Male,Not African-American,25 - 45,F,4,Medium,Reoffended
+1732,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+414,Male,African-American,25 - 45,F,1,Low,Did Not Reoffend
+752,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+3226,Female,Not African-American,25 - 45,M,0,Low,Reoffended
+794,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+3386,Male,African-American,25 - 45,F,6,High,Did Not Reoffend
+2509,Male,Not African-American,Less than 25,F,3,Medium,Reoffended
+654,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+3469,Female,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+2996,Male,Not African-American,Less than 25,F,0,Low,Did Not Reoffend
+2107,Female,African-American,25 - 45,M,1,Low,Did Not Reoffend
+3559,Male,African-American,25 - 45,F,10,High,Reoffended
+4934,Male,Not African-American,Less than 25,F,1,Low,Did Not Reoffend
+3312,Male,Not African-American,Less than 25,F,0,High,Reoffended
+4795,Male,African-American,25 - 45,F,1,Low,Did Not Reoffend
+6116,Male,Not African-American,25 - 45,F,4,Medium,Did Not Reoffend
+589,Male,African-American,Less than 25,M,1,Medium,Did Not Reoffend
+2210,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+4742,Male,Not African-American,Less than 25,F,0,Medium,Reoffended
+1297,Male,African-American,25 - 45,F,4,Medium,Reoffended
+2025,Male,African-American,Less than 25,F,0,Medium,Reoffended
+6137,Male,Not African-American,Less than 25,M,0,Low,Did Not Reoffend
+3114,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+4667,Female,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+5783,Male,Not African-American,25 - 45,F,1,Low,Did Not Reoffend
+4594,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+701,Female,African-American,Less than 25,F,1,Low,Did Not Reoffend
+2329,Male,Not African-American,Greater than 45,F,10,Low,Did Not Reoffend
+2083,Female,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+3334,Male,Not African-American,25 - 45,F,6,High,Reoffended
+5547,Male,African-American,25 - 45,F,9,Medium,Did Not Reoffend
+2080,Female,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+208,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+3362,Male,African-American,25 - 45,F,11,High,Reoffended
+3365,Female,African-American,25 - 45,F,4,Medium,Did Not Reoffend
+425,Male,Not African-American,25 - 45,F,2,Medium,Did Not Reoffend
+3620,Male,African-American,25 - 45,F,7,Medium,Reoffended
+3671,Male,Not African-American,Greater than 45,F,1,Low,Reoffended
+5807,Female,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+4864,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+3646,Male,Not African-American,25 - 45,F,2,Low,Did Not Reoffend
+5421,Male,African-American,25 - 45,M,6,High,Did Not Reoffend
+110,Male,Not African-American,25 - 45,M,1,Low,Did Not Reoffend
+3245,Male,Not African-American,Greater than 45,F,6,Low,Reoffended
+2264,Male,Not African-American,25 - 45,M,1,Low,Did Not Reoffend
+2402,Male,Not African-American,Less than 25,F,1,Medium,Reoffended
+1370,Male,African-American,25 - 45,F,2,Medium,Did Not Reoffend
+4769,Male,Not African-American,Less than 25,M,0,Low,Reoffended
+3193,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+1420,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+1321,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+4189,Male,Not African-American,Greater than 45,M,3,Low,Reoffended
+3012,Male,African-American,Less than 25,M,0,High,Did Not Reoffend
+2457,Male,African-American,25 - 45,F,6,Medium,Did Not Reoffend
+5909,Female,Not African-American,25 - 45,M,1,Low,Reoffended
+5094,Male,Not African-American,Less than 25,F,10,Medium,Did Not Reoffend
+2807,Female,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+3588,Male,African-American,Less than 25,M,9,High,Reoffended
+1623,Male,African-American,Less than 25,M,3,Medium,Did Not Reoffend
+3127,Male,Not African-American,Less than 25,M,3,High,Reoffended
+3754,Male,Not African-American,25 - 45,M,0,Medium,Did Not Reoffend
+5723,Male,African-American,25 - 45,F,2,Low,Did Not Reoffend
+3378,Male,Not African-American,Less than 25,F,0,Low,Did Not Reoffend
+2988,Male,African-American,25 - 45,M,1,Low,Did Not Reoffend
+437,Male,African-American,Greater than 45,F,10,Medium,Reoffended
+1501,Male,African-American,25 - 45,F,0,High,Did Not Reoffend
+1922,Female,African-American,25 - 45,M,0,Low,Did Not Reoffend
+4628,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+4358,Male,Not African-American,25 - 45,F,1,Medium,Did Not Reoffend
+1354,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+4207,Female,African-American,Less than 25,F,0,Medium,Reoffended
+1192,Male,Not African-American,Greater than 45,F,1,Medium,Reoffended
+2954,Male,Not African-American,25 - 45,M,8,Low,Did Not Reoffend
+4793,Male,African-American,25 - 45,F,1,Low,Did Not Reoffend
+3689,Female,African-American,25 - 45,F,1,Medium,Reoffended
+107,Male,African-American,25 - 45,F,19,High,Reoffended
+3861,Male,Not African-American,25 - 45,M,3,Low,Reoffended
+3044,Male,Not African-American,25 - 45,F,1,Low,Did Not Reoffend
+29,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+4960,Male,African-American,Less than 25,F,10,High,Reoffended
+2536,Male,Not African-American,Less than 25,F,3,Medium,Reoffended
+2972,Male,Not African-American,Greater than 45,F,7,Low,Did Not Reoffend
+1744,Male,Not African-American,25 - 45,F,8,Medium,Reoffended
+1562,Female,African-American,25 - 45,F,0,Medium,Reoffended
+751,Male,African-American,25 - 45,F,1,Low,Did Not Reoffend
+1421,Male,African-American,25 - 45,F,24,High,Did Not Reoffend
+584,Male,Not African-American,Greater than 45,F,2,Low,Did Not Reoffend
+196,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+5858,Male,Not African-American,25 - 45,M,1,Low,Reoffended
+4987,Male,Not African-American,Less than 25,F,6,High,Did Not Reoffend
+4102,Male,Not African-American,Less than 25,F,0,Low,Reoffended
+6067,Female,Not African-American,25 - 45,M,0,High,Reoffended
+1315,Male,Not African-American,25 - 45,M,2,Low,Did Not Reoffend
+3583,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+4058,Female,African-American,Less than 25,F,2,Medium,Reoffended
+5741,Male,Not African-American,Greater than 45,F,3,Low,Reoffended
+1769,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+1820,Male,African-American,Less than 25,F,1,High,Reoffended
+5255,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+6039,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+4325,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+1244,Male,African-American,25 - 45,F,5,High,Reoffended
+2802,Male,Not African-American,25 - 45,F,4,Medium,Did Not Reoffend
+3349,Male,African-American,25 - 45,F,0,Low,Reoffended
+2313,Male,African-American,Greater than 45,M,8,Medium,Reoffended
+4192,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+1662,Male,Not African-American,25 - 45,M,3,Medium,Did Not Reoffend
+5763,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+5990,Male,African-American,25 - 45,F,10,High,Reoffended
+90,Male,Not African-American,25 - 45,M,0,Medium,Did Not Reoffend
+1158,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+1894,Male,African-American,25 - 45,F,10,Medium,Reoffended
+624,Male,African-American,Greater than 45,F,11,High,Did Not Reoffend
+69,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+889,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+2549,Female,African-American,25 - 45,F,0,Medium,Reoffended
+4691,Male,African-American,25 - 45,F,2,Low,Did Not Reoffend
+5346,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+3995,Female,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+3937,Male,African-American,Greater than 45,M,0,Low,Reoffended
+4031,Male,African-American,Less than 25,F,1,Medium,Did Not Reoffend
+877,Male,African-American,Greater than 45,M,2,Low,Did Not Reoffend
+1615,Male,African-American,25 - 45,F,13,High,Reoffended
+293,Female,Not African-American,Less than 25,F,0,Medium,Did Not Reoffend
+2451,Male,African-American,Less than 25,M,0,Medium,Did Not Reoffend
+445,Male,Not African-American,Less than 25,M,0,High,Did Not Reoffend
+1163,Male,Not African-American,Less than 25,F,0,Medium,Did Not Reoffend
+1345,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+5819,Male,Not African-American,25 - 45,M,7,Medium,Did Not Reoffend
+3941,Female,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+3227,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+4305,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+367,Male,Not African-American,25 - 45,M,2,Low,Did Not Reoffend
+2585,Male,African-American,25 - 45,F,7,High,Reoffended
+4865,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+4837,Female,Not African-American,25 - 45,F,2,Low,Did Not Reoffend
+5657,Male,African-American,25 - 45,F,3,Low,Reoffended
+2873,Male,African-American,Greater than 45,M,1,Low,Did Not Reoffend
+1487,Male,African-American,25 - 45,M,3,Medium,Did Not Reoffend
+2481,Female,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+2865,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+1097,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+5183,Male,African-American,Less than 25,F,1,Low,Reoffended
+4743,Male,African-American,25 - 45,F,7,Low,Did Not Reoffend
+6040,Male,African-American,Greater than 45,F,7,Low,Reoffended
+151,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+1033,Female,African-American,25 - 45,F,2,High,Reoffended
+915,Male,Not African-American,Greater than 45,M,2,Low,Did Not Reoffend
+1745,Male,Not African-American,25 - 45,F,5,Low,Reoffended
+3221,Male,African-American,25 - 45,F,4,Medium,Did Not Reoffend
+3896,Male,Not African-American,25 - 45,M,1,Low,Reoffended
+2584,Male,Not African-American,Greater than 45,M,0,Low,Reoffended
+4420,Female,African-American,25 - 45,F,2,Low,Did Not Reoffend
+4427,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+748,Male,Not African-American,25 - 45,F,3,Low,Did Not Reoffend
+3586,Male,Not African-American,Less than 25,F,4,High,Did Not Reoffend
+4761,Male,African-American,Less than 25,F,2,Low,Reoffended
+3727,Female,African-American,25 - 45,F,1,Low,Did Not Reoffend
+3094,Female,African-American,Less than 25,M,2,High,Reoffended
+4528,Male,African-American,Greater than 45,F,5,Low,Did Not Reoffend
+3617,Male,Not African-American,Less than 25,F,0,Low,Reoffended
+1539,Male,African-American,25 - 45,F,5,Medium,Did Not Reoffend
+4456,Male,African-American,25 - 45,M,4,Low,Did Not Reoffend
+3575,Male,African-American,Less than 25,M,2,High,Reoffended
+471,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+3149,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+3133,Female,Not African-American,25 - 45,M,1,Medium,Reoffended
+5289,Male,Not African-American,Greater than 45,F,7,Low,Did Not Reoffend
+3931,Male,Not African-American,25 - 45,F,0,Low,Reoffended
+5829,Male,African-American,Greater than 45,F,38,High,Reoffended
+2882,Female,African-American,25 - 45,M,0,Low,Reoffended
+896,Female,Not African-American,Greater than 45,M,30,Medium,Reoffended
+4141,Male,Not African-American,25 - 45,F,12,Medium,Did Not Reoffend
+251,Male,Not African-American,Greater than 45,F,2,Low,Did Not Reoffend
+3125,Male,Not African-American,25 - 45,F,9,Medium,Reoffended
+4732,Female,African-American,Less than 25,M,0,Medium,Did Not Reoffend
+4951,Male,Not African-American,Less than 25,F,1,High,Did Not Reoffend
+3194,Male,Not African-American,Greater than 45,F,2,High,Reoffended
+57,Male,African-American,25 - 45,F,6,Medium,Reoffended
+3360,Male,Not African-American,Less than 25,F,1,Medium,Did Not Reoffend
+292,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+2476,Female,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+3949,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+2812,Male,Not African-American,25 - 45,F,3,Low,Did Not Reoffend
+2093,Male,African-American,Less than 25,F,1,Low,Did Not Reoffend
+3184,Male,Not African-American,Less than 25,F,1,Low,Did Not Reoffend
+1174,Male,African-American,Less than 25,F,0,Low,Did Not Reoffend
+1586,Male,Not African-American,Less than 25,M,3,Medium,Did Not Reoffend
+1086,Male,Not African-American,25 - 45,F,2,High,Reoffended
+5329,Male,Not African-American,Less than 25,F,2,Medium,Reoffended
+1726,Female,African-American,Less than 25,M,0,Low,Did Not Reoffend
+5808,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+2414,Male,African-American,25 - 45,M,4,High,Did Not Reoffend
+1893,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+3731,Male,Not African-American,25 - 45,F,2,Low,Reoffended
+3801,Male,Not African-American,Less than 25,F,2,High,Did Not Reoffend
+2364,Male,Not African-American,25 - 45,F,0,High,Did Not Reoffend
+613,Female,Not African-American,25 - 45,F,1,Low,Did Not Reoffend
+1743,Male,African-American,Greater than 45,F,1,Low,Did Not Reoffend
+2535,Male,Not African-American,25 - 45,F,2,Low,Did Not Reoffend
+3613,Male,African-American,25 - 45,F,15,High,Did Not Reoffend
+3106,Male,African-American,Greater than 45,F,19,High,Reoffended
+5562,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+505,Female,Not African-American,Less than 25,F,0,Medium,Did Not Reoffend
+4359,Male,Not African-American,25 - 45,F,5,Medium,Reoffended
+272,Male,Not African-American,Greater than 45,F,36,Medium,Reoffended
+3837,Male,African-American,Less than 25,M,0,Medium,Reoffended
+2254,Female,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+3318,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+2133,Female,Not African-American,25 - 45,M,1,Medium,Reoffended
+5157,Male,African-American,Greater than 45,F,2,High,Reoffended
+106,Male,Not African-American,Greater than 45,M,3,High,Did Not Reoffend
+1215,Female,African-American,25 - 45,M,2,Low,Did Not Reoffend
+4260,Male,African-American,25 - 45,M,6,High,Reoffended
+952,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+4216,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+2018,Male,Not African-American,25 - 45,F,10,High,Reoffended
+1891,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+3499,Male,African-American,Less than 25,F,1,High,Reoffended
+4770,Female,African-American,Greater than 45,F,7,High,Reoffended
+3437,Male,African-American,Less than 25,F,0,Medium,Reoffended
+1024,Male,African-American,25 - 45,F,1,High,Reoffended
+3033,Male,African-American,Greater than 45,M,2,Medium,Reoffended
+3203,Male,African-American,25 - 45,F,21,Medium,Did Not Reoffend
+416,Male,Not African-American,25 - 45,M,0,Low,Reoffended
+1374,Male,African-American,25 - 45,F,13,High,Reoffended
+4376,Male,African-American,Less than 25,F,1,High,Reoffended
+1426,Female,Not African-American,Greater than 45,F,8,Low,Did Not Reoffend
+564,Male,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+478,Male,African-American,Less than 25,F,1,Medium,Did Not Reoffend
+1874,Male,African-American,25 - 45,F,0,Low,Did Not Reoffend
+142,Male,Not African-American,25 - 45,F,0,Medium,Did Not Reoffend
+1371,Male,African-American,25 - 45,F,6,Medium,Did Not Reoffend
+1268,Male,African-American,25 - 45,M,12,High,Reoffended
+2691,Male,Not African-American,25 - 45,F,2,Medium,Did Not Reoffend
+2271,Male,African-American,25 - 45,F,2,Medium,Reoffended
+605,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+1181,Female,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+5907,Male,African-American,25 - 45,F,8,High,Reoffended
+4204,Male,Not African-American,25 - 45,F,1,Medium,Did Not Reoffend
+497,Male,Not African-American,25 - 45,M,0,Medium,Reoffended
+1220,Female,African-American,Less than 25,M,0,Medium,Did Not Reoffend
+3793,Male,African-American,Greater than 45,F,4,Medium,Did Not Reoffend
+3574,Female,Not African-American,25 - 45,F,6,Medium,Reoffended
+3753,Male,African-American,Less than 25,F,0,Medium,Did Not Reoffend
+721,Male,Not African-American,25 - 45,M,4,Medium,Reoffended
+1616,Male,African-American,25 - 45,F,9,Medium,Reoffended
+1025,Male,African-American,25 - 45,M,0,Low,Reoffended
+3745,Male,Not African-American,25 - 45,F,1,Low,Reoffended
+2366,Male,African-American,25 - 45,M,2,Low,Did Not Reoffend
+6032,Male,African-American,Less than 25,F,4,Low,Reoffended
+1344,Male,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+4872,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+2284,Male,African-American,25 - 45,F,13,Medium,Did Not Reoffend
+5598,Male,African-American,Less than 25,F,3,Low,Reoffended
+2770,Male,African-American,Less than 25,F,2,Medium,Reoffended
+5517,Male,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+2788,Male,African-American,25 - 45,F,0,Low,Reoffended
+5706,Male,Not African-American,25 - 45,F,0,Low,Reoffended
+2900,Male,African-American,Greater than 45,F,0,Low,Did Not Reoffend
+336,Male,African-American,25 - 45,F,9,High,Reoffended
+5405,Male,Not African-American,Greater than 45,F,1,Low,Did Not Reoffend
+6018,Female,African-American,25 - 45,M,1,Low,Did Not Reoffend
+3516,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+4174,Male,Not African-American,Less than 25,F,2,Low,Did Not Reoffend
+5914,Female,Not African-American,25 - 45,M,1,Medium,Did Not Reoffend
+5686,Male,African-American,25 - 45,F,5,Low,Reoffended
+1755,Male,Not African-American,25 - 45,F,3,Medium,Did Not Reoffend
+4392,Male,Not African-American,25 - 45,M,1,Low,Did Not Reoffend
+4599,Male,African-American,Less than 25,F,1,Medium,Did Not Reoffend
+724,Male,African-American,Less than 25,F,1,High,Reoffended
+765,Female,Not African-American,Greater than 45,M,1,Low,Did Not Reoffend
+286,Male,African-American,25 - 45,F,12,High,Reoffended
+4525,Male,Not African-American,25 - 45,M,0,Low,Did Not Reoffend
+307,Male,Not African-American,Less than 25,M,2,Medium,Reoffended
+3935,Female,African-American,25 - 45,M,0,Low,Reoffended
+4881,Male,African-American,25 - 45,F,19,High,Did Not Reoffend
+1839,Female,African-American,25 - 45,M,0,Low,Did Not Reoffend
+2168,Male,African-American,25 - 45,M,0,Low,Did Not Reoffend
+5591,Female,Not African-American,Greater than 45,F,0,Low,Did Not Reoffend
+1951,Male,Not African-American,25 - 45,F,2,Low,Did Not Reoffend
+1323,Male,African-American,25 - 45,M,0,Low,Reoffended
+5230,Male,African-American,Greater than 45,F,22,High,Reoffended
+5716,Female,Not African-American,Less than 25,F,0,High,Reoffended
+71,Male,African-American,25 - 45,M,8,High,Reoffended
+4923,Male,Not African-American,25 - 45,M,4,Low,Reoffended
+711,Male,Not African-American,25 - 45,F,5,Low,Reoffended
+3917,Male,Not African-American,25 - 45,M,1,Medium,Did Not Reoffend
+1020,Male,Not African-American,25 - 45,F,0,Low,Did Not Reoffend
+5937,Female,Not African-American,Less than 25,M,1,High,Did Not Reoffend
+4939,Female,Not African-American,25 - 45,F,3,Medium,Reoffended
+3323,Male,African-American,Less than 25,F,3,Low,Reoffended
+737,Male,African-American,25 - 45,F,0,High,Reoffended
+4471,Female,African-American,25 - 45,F,0,Low,Did Not Reoffend
+2576,Female,African-American,Less than 25,M,2,Medium,Did Not Reoffend
+2086,Male,Not African-American,Less than 25,F,0,Low,Reoffended
+6033,Female,Not African-American,25 - 45,M,1,Low,Did Not Reoffend
+2753,Male,Not African-American,25 - 45,F,1,Low,Did Not Reoffend
+1599,Male,Not African-American,25 - 45,F,11,High,Reoffended
+5781,Male,Not African-American,Greater than 45,M,0,Low,Did Not Reoffend
+3796,Male,African-American,25 - 45,F,9,High,Reoffended
+1095,Male,Not African-American,Less than 25,F,6,Medium,Reoffended
+3585,Male,African-American,25 - 45,F,0,Low,Reoffended
+3548,Male,African-American,Less than 25,F,2,High,Reoffended
