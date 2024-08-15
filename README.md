@@ -15,17 +15,17 @@ Recent literature has suggested the potential of using large language models (LL
 Through a series of experiments, we delve into these questions and show that LLMs tend to inherit social biases from their training data which significantly impact their fairness in tabular classification tasks. Furthermore, our investigations show that in the context of bias mitigation, though in-context learning and finetuning have a moderate effect, the fairness metric gap between different subgroups is still larger than that in traditional machine learning models, such as Random Forest and shallow Neural Networks. This observation emphasizes that the social biases are inherent within the LLMs themselves and inherited from their pretraining corpus, not only from the downstream task datasets. Besides, we demonstrate that label-flipping of in-context examples can significantly reduce biases, further highlighting the presence of inherent bias within LLMs.
 
 ## Task Creation
-The datasets used in our paper are stored in the *data* directory. However, if you want to create your own task, you can follow the template in *create_new_task.ipynb* to transform data stored in ".csv" format into the "Dataset" format used in our work.
+The datasets used in our paper are stored in the `/data` directory. However, if you want to create your own task, you can follow the template in `create_new_task.ipynb` to transform data stored in ".csv" format into the "Dataset" format used in our work.
 
 ## Usage
 ### In-Context Learning
-Please run *src/inference_chatgpt.py* to get the predictions by prompting ChatGPT with in-context examples (with optional label flipping).
+Please run `/src/inference_chatgpt.py` to get the predictions by prompting ChatGPT with in-context examples (with optional label flipping).
 
 ### Finetuning
-Please run  *src/finetune.py* to finetune ChatGPT (with optional resampling) and get the predictions.
+Please run  `/src/finetune.py` to finetune ChatGPT (with optional resampling) and get the predictions.
 
 ### Evaluation
-Please run  *evaluate/fairness_evaluate.py* to evaluate the fairness metrics for the predictions obtained above.
+Please run  `/evaluate/fairness_evaluate.py` to evaluate the fairness metrics for the predictions obtained above.
  
 ## Citation and Contact
 
