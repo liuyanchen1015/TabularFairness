@@ -8,7 +8,7 @@ from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = '***'
 
 class EvaluationArgumentParser:
     def __init__(self):
