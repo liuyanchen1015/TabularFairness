@@ -12,7 +12,7 @@ from datasets import(
     concatenate_datasets
 )
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = '***'
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 class EvaluationArgumentParser:
